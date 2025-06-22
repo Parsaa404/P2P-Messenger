@@ -1,5 +1,7 @@
 # P2P Encrypted Messenger
 
+> **Note:** This project is currently under active development. It is not yet a final release and may contain bugs or incomplete features. Please use it with this in mind.
+
 A secure, peer-to-peer (P2P) messaging application built with Python. It provides end-to-end encryption for all communications, including text messages, file transfers, and live voice calls, ensuring that only the sender and receiver can access the content.
 
 ## Features
