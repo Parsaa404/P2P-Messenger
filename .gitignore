@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Local files
+downloads/
+*.wav
+
+# IDE / Editor specific
+.vscode/
+.idea/ 

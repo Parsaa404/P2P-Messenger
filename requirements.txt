@@ -1,0 +1,5 @@
+cryptography
+customtkinter
+Pillow
+PyAudio
+playsound==1.2.2 
